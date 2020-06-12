@@ -1,0 +1,33 @@
+Exercícios com Inteiros:
+	52% Feito
+	Faltam: 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
+
+Exercícios com Repetições Encaixadas:
+	100% Feito!
+
+Exercícios com Reais:
+	100% Feito!
+
+Exercícios com Funções - Parte I
+	0% Feito
+	Faltam: Todos, nem comecei
+
+Exercícios com Funções - Parte II
+	0% Feito
+	Faltam: Todos, nem comecei
+
+Exercícios com Vetores
+	77% Feito
+	Faltam: 12, 13, 14, 16
+
+Exercícios com Matrizes:
+	0% Feito
+	Faltam: Todos, nem comecei
+
+Exercícios com Funções - Parte III
+	0% Feito
+	Faltam: Todos, nem comecei
+
+Exercícios Complementares
+	0% Feito
+	Faltam: Todos, nem comecei
