@@ -1,6 +1,5 @@
 Exercícios com Inteiros:
-	96% Feito
-	Falta: 17
+	100% Feito!
 
 Exercícios com Repetições Encaixadas:
 	100% Feito!
