@@ -20,8 +20,8 @@ Exercícios com Vetores
 	Faltam: 12, 14, 16
 
 Exercícios com Matrizes:
-	0% Feito
-	Faltam: Todos, nem comecei
+	47% Feito
+	Faltam: 2, 9, 10, 11, 12, 13, 14, 15
 
 Exercícios com Funções - Parte III
 	0% Feito
