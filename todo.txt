@@ -11,8 +11,7 @@ Exercícios com Funções - Parte I
 	100% Feito
 
 Exercícios com Funções - Parte II
-	0% Feito
-	Faltam: Todos, nem comecei
+	100% Feito
 
 Exercícios com Vetores
 	82% Feito
