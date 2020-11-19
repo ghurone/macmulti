@@ -1,5 +1,5 @@
 # mac0115
-EPS e Exercícios do macmulti resolvidos por mim.
+Exercícios do macmulti resolvidos por mim.
 
 Link com os exercios: [macmulti](https://www.ime.usp.br/~macmulti/)
 
