@@ -14,8 +14,8 @@ Exercícios com Funções - Parte II
 	100% Feito
 
 Exercícios com Vetores
-	82% Feito
-	Faltam: 12, 14, 16
+	89% Feito
+	Faltam: 12 e 14
 
 Exercícios com Matrizes:
 	47% Feito
