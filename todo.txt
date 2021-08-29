@@ -22,8 +22,8 @@ Exercícios com Matrizes:
 	Faltam: 2, 9, 10, 11, 12, 13, 14, 15
 
 Exercícios com Funções - Parte III
-	0% Feito
-	Faltam: Todos, nem comecei
+	53% Feito
+	Faltam: 11, 12, 13, 14, 15, 16, 17, 18, 19
 
 Exercícios Complementares
 	0% Feito
