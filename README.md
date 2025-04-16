@@ -31,8 +31,7 @@ Em todas as resoluções eu criei uma função main() para que as variáveis de 
 
 ### [Exercícios com Vetores](https://github.com/ghurone/mac0115/blob/master/Macmulti/exercicios_com_vetores.ipynb):
 
-- 95% Feito
-- *Exercícios faltantes: 12*
+- **100% Feito!**
 
 ### [Exercícios com Matrizes](https://github.com/ghurone/mac0115/blob/master/Macmulti/exercicios_com_matrizes.ipynb):
 
