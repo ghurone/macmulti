@@ -35,15 +35,15 @@ Em todas as resoluções eu criei uma função main() para que as variáveis de 
 
 ### [Exercícios com Matrizes](https://github.com/ghurone/mac0115/blob/master/Macmulti/exercicios_com_matrizes.ipynb):
 
-- 47% Feito
-- *Exercícios faltantes:: 2, 9, 10, 11, 12, 13, 14, 15*
+- 60% Feito
+- *Exercícios faltantes: 10, 11, 12, 13, 14, 15*
 
 ### [Exercícios com Funções - Parte III](https://github.com/ghurone/mac0115/blob/master/Macmulti/exercicios_com_funcoes_3.ipynb):
 
 - 53% Feito
-- *Exercícios faltantes:: 11, 12, 13, 14, 15, 16, 17, 18, 19*
+- *Exercícios faltantes: 11, 12, 13, 14, 15, 16, 17, 18, 19*
 
 ### Exercícios Complementares
 
 - 0% Feito
-- *Exercícios faltantes:: Todos, nem comecei*
+- *Exercícios faltantes: Todos, nem comecei xD*
